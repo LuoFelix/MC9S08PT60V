@@ -1,0 +1,75 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchSystemPaths</name>
+      <values lines_count="1">
+        <Line>"${ProjDirPath}/Sources/TSS"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Linker_Libraries</name>
+      <values lines_count="1">
+        <Line>"${ProjDirPath}/Sources/TSS/TSS_S08.lib"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Sources/TSS/TSS_DataTypes.h" FileDate="2014-06-09, 12:03:56" FileAge="1402286636408" FileType="16384" CompNumb="8" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2014-07-31, 09:29:47" FileAge="1406770187286" FileType="8" CompNumb="4" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2014-07-17, 11:45:34" FileAge="1405568734261" FileType="45637" CompNumb="4" />
+      <File Name="Sources/TSS/TSS_SystemSetupVal.h" FileDate="2014-06-09, 12:03:56" FileAge="1402286636578" FileType="16384" CompNumb="8" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2014-06-09, 11:06:35" FileAge="1402283195424" FileType="45637" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2014-06-09, 11:06:35" FileAge="1402283195424" FileType="45637" />
+      <File Name="Sources/TSS/TSS_GPIO.h" FileDate="2014-06-09, 12:03:56" FileAge="1402286636443" FileType="16384" CompNumb="8" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2014-06-09, 11:06:35" FileAge="1402283195440" FileType="45637" />
+      <File Name="Generated_Code/RTC.h" FileDate="2014-07-17, 14:00:13" FileAge="1405576813332" FileType="45637" CompNumb="47" />
+      <File Name="Sources/TSS/TSS_API.h" FileDate="2014-06-09, 12:03:56" FileAge="1402286636402" FileType="16384" CompNumb="8" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2014-06-09, 11:06:35" FileAge="1402283195440" FileType="45637" />
+      <File Name="Sources/TSS/TSS_Freemaster.c" FileDate="2014-06-09, 12:03:56" FileAge="1402286636424" FileType="16384" CompNumb="8" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2014-06-09, 11:06:35" FileAge="1402283195440" FileType="45637" />
+      <File Name="Generated_Code/RTC.c" FileDate="2014-07-31, 09:29:47" FileAge="1406770187246" FileType="45637" CompNumb="47" />
+      <File Name="Generated_Code/LED1.h" FileDate="2014-07-17, 13:21:50" FileAge="1405574510327" FileType="45637" CompNumb="54" />
+      <File Name="Generated_Code/LED1.c" FileDate="2014-07-17, 13:21:50" FileAge="1405574510336" FileType="45637" CompNumb="54" />
+      <File Name="Documentation/AUX_Display_Panel_Settings.xml" FileDate="2014-07-18, 09:25:40" FileAge="1405646740273" FileType="3072" />
+      <File Name="Generated_Code/LED0.h" FileDate="2014-07-17, 11:47:41" FileAge="1405568861199" FileType="45637" CompNumb="19" />
+      <File Name="Sources/TSS/TSS_SensorGPIO.h" FileDate="2014-06-09, 12:03:56" FileAge="1402286636478" FileType="16384" CompNumb="8" />
+      <File Name="Sources/TSS/TSS_SensorTSI.h" FileDate="2014-06-09, 12:03:56" FileAge="1402286636508" FileType="16384" CompNumb="8" />
+      <File Name="Generated_Code/LED0.c" FileDate="2014-07-17, 11:47:41" FileAge="1405568861127" FileType="45637" CompNumb="19" />
+      <File Name="Sources/TSS/TSS_SensorGPIO.c" FileDate="2014-06-09, 12:03:56" FileAge="1402286636475" FileType="16384" CompNumb="8" />
+      <File Name="Sources/TSS/TSS_SensorTSI.c" FileDate="2014-06-09, 12:03:56" FileAge="1402286636492" FileType="16384" CompNumb="8" />
+      <File Name="Sources/TSS/TSS_Sensor.h" FileDate="2014-06-09, 12:03:56" FileAge="1402286636453" FileType="16384" CompNumb="8" />
+      <File Name="Sources/TSS/TSS_StatusCodes.h" FileDate="2014-06-09, 12:03:56" FileAge="1402286636557" FileType="16384" CompNumb="8" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2014-07-17, 11:25:29" FileAge="1405567529373" FileType="45637" CompNumb="4" />
+      <File Name="Documentation/AUX_Display_Panel_SIGNALS.txt" FileDate="2014-07-31, 09:29:47" FileAge="1406770187350" FileType="3072" />
+      <File Name="Sources/TSS/TSS_Sensor.c" FileDate="2014-06-09, 12:03:56" FileAge="1402286636449" FileType="16384" CompNumb="8" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2014-07-17, 14:13:04" FileAge="1405577584419" FileType="45637" CompNumb="4" />
+      <File Name="Sources/TSS/TSS_SystemSetupData.c" FileDate="2014-06-09, 12:03:56" FileAge="1402286636561" FileType="16384" CompNumb="8" />
+      <File Name="Sources/TSS/TSS_SensorTSIL.h" FileDate="2014-06-09, 12:03:56" FileAge="1402286636525" FileType="16384" CompNumb="8" />
+      <File Name="Sources/TSS_SystemSetup.h" FileDate="2014-07-17, 11:24:06" FileAge="1405567446617" FileType="45637" CompNumb="8" />
+      <File Name="Sources/TSS/TSS_SensorTSIL.c" FileDate="2014-06-09, 12:03:56" FileAge="1402286636525" FileType="16384" CompNumb="8" />
+      <File Name="Sources/TSS/TSS_Timer.h" FileDate="2014-06-09, 12:03:56" FileAge="1402286636584" FileType="16384" CompNumb="8" />
+      <File Name="Generated_Code/TSS1.h" FileDate="2014-06-14, 13:27:20" FileAge="1402723640630" FileType="45637" CompNumb="8" />
+      <File Name="Sources/TSS/TSS_S08.lib" FileDate="2014-06-09, 12:03:56" FileAge="1402286636358" FileType="16384" CompNumb="8" />
+      <File Name="Generated_Code/TSS1.c" FileDate="2014-07-18, 09:25:40" FileAge="1405646740235" FileType="45637" CompNumb="8" />
+      <File Name="Sources/Events.h" FileDate="2014-07-17, 13:24:57" FileAge="1405574697060" FileType="131328" />
+      <File Name="Sources/main.c" FileDate="2014-07-31, 09:29:16" FileAge="1406770156661" FileType="128" />
+      <File Name="Sources/TSS/TSS_SensorTSIL_def.h" FileDate="2014-06-09, 12:03:56" FileAge="1402286636525" FileType="16384" CompNumb="8" />
+      <File Name="Generated_Code/PE_Timer.h" FileDate="2014-07-17, 14:00:13" FileAge="1405576813350" FileType="45637" />
+      <File Name="Sources/Events.c" FileDate="2014-07-18, 09:24:06" FileAge="1405646646067" FileType="131328" />
+      <File Name="Sources/TSS/TSS_SensorGPIO_def.h" FileDate="2014-06-09, 12:03:56" FileAge="1402286636492" FileType="16384" CompNumb="8" />
+      <File Name="Sources/TSS/TSS_SensorTSI_def.h" FileDate="2014-06-09, 12:03:56" FileAge="1402286636508" FileType="16384" CompNumb="8" />
+      <File Name="Documentation/AUX_Display_Panel.txt" FileDate="2014-07-17, 14:00:14" FileAge="1405576814277" FileType="3072" />
+      <File Name="Sources/derivative.h" FileDate="2014-06-09, 12:03:57" FileAge="1402286637831" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/PE_Timer.c" FileDate="2014-07-17, 14:00:13" FileAge="1405576813350" FileType="45637" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>180</CodeGenReference>
+</CodeGenerationInfo>
